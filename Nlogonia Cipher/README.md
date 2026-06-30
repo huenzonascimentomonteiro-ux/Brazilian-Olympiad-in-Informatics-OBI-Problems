@@ -16,9 +16,9 @@ For example, the cipher for the word "ter" is "tuveros" (tuv-e-ros) and the ciph
 
 The King of Nlogonia is looking for someone who can write a program to generate the cipher for a given word. Can you help him?
 
-Input
+Input:
 The first and only line of the input contains a word P consisting of lowercase, unaccented letters.
 
-Output
+Output:
 Your program must produce a single line containing the encrypted word. Constraints
 The word P consists of between 1 and 30 letters, all lowercase and without accents.
